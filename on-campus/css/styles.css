@@ -1,0 +1,20 @@
+.form {
+	margin: 10px;
+}
+
+.signin {
+	margin-top: 50px;
+	background-color: #e8e6ff;
+	width: 500px; 
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+
+}
+
+.error-m {
+	color: red;
+	margin: 10px;
+	font-family: 'Bitter', serif;
+	font-size: 1.5em;
+}

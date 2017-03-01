@@ -1,0 +1,50 @@
+#wrapper {
+    width: 450px;
+    position: absolute;
+    bottom: 25px;
+    right: 25px;
+    background-color: #20b2aa;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+}
+
+p {
+    margin: auto 10px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 1.5em;
+    }
+
+.welcome {
+    float: left;
+}
+
+.logout {
+    float: right;
+}
+
+#chatbox {
+    text-align:left;
+    margin-top: 25px;
+    margin-bottom:25px;
+    padding:10px;
+    background:#f1d8c5;
+    height:270px;
+    width:450px;
+    border:1px solid #ACD8F0;
+    clear: both;
+    overflow:auto; }
+
+form {
+    margin: auto;
+    width: 430px;
+}
+
+#usermsg {
+    width: 390px;
+}
+
+#submitmsg {
+    border-radius: 10px;
+    box-shadow: none;
+}
